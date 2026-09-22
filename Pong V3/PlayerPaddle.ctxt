@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=PlayerPaddle
+comment0.text=\r\n\ PlayerPaddle\ is\ the\ paddle\ the\ user\ controls.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=width\ height
+comment1.target=PlayerPaddle(int,\ int)
+comment1.text=\r\n\ Constructs\ a\ new\ paddle\ with\ the\ given\ dimensions.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ playerMove()
+comment3.text=\r\n\ moves\ the\ player\ paddle\ left\ or\ right\ using\ the\ a\ and\ d\ keys.\r\n
+comment4.params=
+comment4.target=void\ playerMoveRight()
+comment5.params=
+comment5.target=void\ playerMoveLeft()
+comment6.params=
+comment6.target=void\ createImage()
+comment6.text=\r\n\ Creates\ and\ sets\ an\ image\ for\ the\ paddle,\ the\ image\ will\ have\ the\ same\ dimensions\ as\ the\ paddles\ width\ and\ height.\r\n
+comment7.params=
+comment7.target=boolean\ checkMoveOffSide()
+comment7.text=\r\n\ This\ checks\ if\ the\ PlayerPaddle\ would\ go\ off-screen\ when\ going\ left\ or\ right.\r\n\ If\ the\ x-coordinate\ is\ less\ or\ equal\ to\ half\ the\ width\ of\ the\ Paddle\ itself,\ then\ it\ can\ only\ go\ right.\r\n\ If\ the\ x-coordinate\ is\ greater\ or\ equal\ to\ the\ world\ width\ minus\ by\ half\ the\ width\ of\ the\ Paddle\ itself,\r\n\ then\ it\ can\ only\ go\ left.\r\n
+numComments=8

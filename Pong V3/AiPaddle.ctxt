@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=AiPaddle
+comment0.text=\r\n\ AiPaddle\ is\ the\ users\ opponent.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=width\ height
+comment1.target=AiPaddle(int,\ int)
+comment1.text=\r\n\ Constructs\ a\ new\ paddle\ with\ the\ given\ dimensions.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ createImage()
+comment3.text=\r\n\ Creates\ and\ sets\ an\ image\ for\ the\ paddle,\ the\ image\ will\ have\ the\ same\ dimensions\ as\ the\ paddles\ width\ and\ height.\r\n
+comment4.params=
+comment4.target=boolean\ checkMoveToMiddle()
+comment4.text=\r\n\ this\ checks\ if\ the\ ball\ has\ bounced\ off\ the\ AiPaddle.\r\n
+comment5.params=
+comment5.target=void\ moveToMiddle()
+comment5.text=\r\n\ moves\ the\ AiPaddle\ to\ the\ middle\ position.\r\n
+comment6.params=
+comment6.target=void\ moveToBall()
+comment6.text=\r\n\ the\ AiPaddle\ finds\ the\ x\ coordinate\ of\ the\ ball\ and\ moves\ towards\ it.\r\n
+comment7.params=
+comment7.target=boolean\ canTrackBall()
+comment7.text=\r\n\ Checks\ whether\ the\ paddle\ can\ track\ the\ ball\ or\ not.\r\n\ Returns\ true\ if\ the\ paddle\ won't\ go\ off-screen\ when\ it\ tracks\ the\ ball,\ \r\n\ and\ returns\ false\ if\ the\ paddle\ would\ go\ out\ off-screen\ when\ tracking.\r\n
+numComments=8

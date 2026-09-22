@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=PaddleTwo
+comment0.text=\r\n\ PaddleTwo\ moves\ across\ the\ screen\ randomly.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=width\ height
+comment1.target=PaddleTwo(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkPaddleReachWall()
+comment3.text=\r\n\ When\ the\ paddle\ hits\ the\ right\ wall\ it\ removes\ itself\ then\ creates\ another\ one\ of\ itself\ on\ the\ left\ side.\r\n
+comment4.params=
+comment4.target=void\ createImage()
+comment4.text=\r\n\ Creates\ and\ sets\ an\ image\ for\ the\ paddle,\ the\ image\ will\ have\ the\ same\ dimensions\ as\ the\ paddles\ width\ and\ height.\r\n
+numComments=5

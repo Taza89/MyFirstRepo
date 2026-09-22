@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SoundManager
+comment0.text=\r\n\ SoundManager\ manages\ the\ music\ played\ throughout\ worlds.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=filename\ world
+comment1.target=void\ playMusic(java.lang.String,\ greenfoot.World)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SoundManager\r\n
+comment2.params=
+comment2.target=void\ stopMusic()
+comment2.text=\r\n\ it\ stops\ the\ object\ it\ has\ created\ which\ stops\ the\ music\ currently\ being\ played,\ and\ also\ removes\ the\ object\ itself.\ \r\n\ stop()\ is\ used\ in\ case\ the\ object\ cant\ be\ removed.\r\n
+numComments=3

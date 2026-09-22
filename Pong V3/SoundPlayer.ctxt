@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SoundPlayer
+comment0.text=\r\n\ Soundplayer\ creates\ an\ invisible\ object\ that\ plays\ a\ sound.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=filename
+comment1.target=SoundPlayer(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SoundPlayer\r\n
+comment2.params=
+comment2.target=void\ play()
+comment3.params=
+comment3.target=void\ stop()
+numComments=4

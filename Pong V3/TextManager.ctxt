@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TextManager
+comment0.text=\r\n\ TextManager\ creates\ text\ that\ is\ able\ to\ be\ updated.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=text\ size
+comment1.target=TextManager(java.lang.String,\ int)
+comment1.text=\r\n\ the\ constructor\r\n
+comment2.params=text\ size
+comment2.target=void\ updateText(java.lang.String,\ int)
+comment2.text=\r\n\ changes\ the\ image\ of\ the\ object\ based\ on\ new\ parameters.\r\n
+numComments=3
